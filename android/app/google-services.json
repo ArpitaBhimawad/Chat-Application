@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "395942901634",
+    "project_id": "chatproject-fa1a1",
+    "storage_bucket": "chatproject-fa1a1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395942901634:android:87c061b44b43e8bc8a019b",
+        "android_client_info": {
+          "package_name": "com.example.whatsappnew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzIYOka6mEtf_44T1g5zhMeNysdIcMbMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
